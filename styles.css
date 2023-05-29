@@ -34,3 +34,9 @@ p {
 a {
     color: black;
 }
+
+@media (max-width:1200px) {
+    body {
+        padding: 20px;
+    }
+}
